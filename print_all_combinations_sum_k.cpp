@@ -47,5 +47,8 @@ int main()
         }
         cout<<"\n";
     }
+    cout<<"\n";
+
+    cout<<res.size()<<"\n";
     return 0;
 }
